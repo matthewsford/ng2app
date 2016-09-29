@@ -1,4 +1,7 @@
-export * from './app.module';
+export class Hero {
+  id: number;
+  name: string;
+}
 
 
 /*
